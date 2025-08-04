@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(238, 228, 214);
+}
+
+.home {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    border: groove 6px;
+    padding: 4px;
+    margin: 4px;
+    display: inline;
+    text-align: center;
+    background-color: rgb(6, 46, 96);
+}
