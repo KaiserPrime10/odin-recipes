@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(238, 228, 214);
+}
+
+.logo {
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(3, 76, 87);
+    background-color: aquamarine;
+    padding: 8px;
+    margin: 16px;
+    border: 8px groove;
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(164, 225, 233);
+    padding: 16px;
+    margin: 16px;
+}
+
+.button {
+    background-color: rgb(197, 236, 226);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 8px;
+    margin: 8px;
+    border: groove 6px;
+    text-align: center;
+}
+
+.footer {
+    padding: 16px;
+    text-align: center;
+}
